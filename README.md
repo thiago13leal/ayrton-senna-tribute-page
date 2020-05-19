@@ -1,2 +1,2 @@
-# ayrton-senns-tribute-page
+# ayrton-senna-tribute-page
 Tribute Page for FreeCodeCamp Course Project
